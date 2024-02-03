@@ -8,8 +8,13 @@ The presentation is displayed in a simple X11 window. The content of each slide
 is automatically scaled to fit the window and centered so you also don't have to
 worry about alignment. Instead you can really concentrate on the content.
 
+# Changes in my build
+Added the following patches
+- a progress bar
 
-Demo
+Changed the color scheme
+
+# Demo
 
 To get a little demo, just type
 
