@@ -11,8 +11,8 @@ worry about alignment. Instead you can really concentrate on the content.
 # Changes in my build
 Added the following patches
 - a progress bar
+- Changed the color scheme
 
-Changed the color scheme
 
 # Demo
 
